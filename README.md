@@ -36,7 +36,7 @@ sudo apt install python3
 
 Download repository:
 
-git clone https://github.com/USERNAME/SentinelGuard
+git clone https://github.com/alfaxzry00/SentinelGuard
 
 Masuk folder:
 
