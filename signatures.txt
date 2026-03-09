@@ -1,0 +1,7 @@
+eval(base64_decode
+gzinflate(
+shell_exec(
+passthru(
+system(
+assert(
+cmd=
