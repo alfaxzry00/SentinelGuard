@@ -45,6 +45,7 @@ cd SentinelGuard
 Jalankan tool:
 
 chmod +x run.sh
+
 ./run.sh
 
 ## Directory scanned
