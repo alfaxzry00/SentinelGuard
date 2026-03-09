@@ -5,7 +5,7 @@ from modules import cron_scanner
 from modules import process_scanner
 from modules import permission_audit
 from modules import network_scan
-from modules import user_scanner
+from modules import user_scan
 
 DB="database.db"
 
